@@ -1,0 +1,6 @@
+sahi
+ultralytics
+deep_sort_realtime
+torch
+opencv-python-headless
+numpy
