@@ -10,7 +10,7 @@
 git clone <repository_url>
 cd my_project
 pip install -r requirements.txt
-
+```
 
 ### Использование
 Запустите скрипт для выполнения детекции:
